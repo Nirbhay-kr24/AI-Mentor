@@ -133,7 +133,7 @@ Focuses on startups, product thinking, and problem solving.
 ## Project Preview
 
 ### Home
-![Home UI](screenshots/home.png)
+![Home UI](Screenshot/home.png)
 
 ### Chat Demo
-![Chat Demo](screenshots/chat.png)
+![Chat Demo](Screenshot/chat.png)
