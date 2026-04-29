@@ -1,0 +1,23 @@
+{
+  "name": "persona-chatbot",
+  "version": "1.0.0",
+  "description": "Persona-based AI chatbot with Anshuman Singh, Abhimanyu Saxena, and Kshitij Mishra",
+  "main": "api/chat.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "chatbot",
+    "personas",
+    "ai"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
