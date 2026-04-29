@@ -1,5 +1,3 @@
-// Persona System Prompts for Scaler Academy
-// Each prompt includes: background, few-shot examples, CoT instruction, output format, and constraints
 
 const PERSONAS = {
   anshuman: {

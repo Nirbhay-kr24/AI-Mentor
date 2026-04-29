@@ -1,4 +1,3 @@
-// Frontend Chat Application Logic
 
 const PERSONAS_DATA = {
   anshuman: {
