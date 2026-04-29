@@ -130,3 +130,10 @@ Focuses on structured learning and career guidance.
 Focuses on startups, product thinking, and problem solving.
 
 ---
+## Project Preview
+
+### Home
+![Home UI](screenshots/home.png)
+
+### Chat Demo
+![Chat Demo](screenshots/chat.png)
